@@ -1,5 +1,5 @@
 {
-    "name": "azonmedia/tags-base",
+    "name": "guzaba-platform/tags-base",
     "type": "library",
     "description": "Tags interfaces",
     "keywords": ["tags interfaces"],
