@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Azonmedia\Tags\Base\Interfaces;
+namespace GuzabaPlatofrm\Tags\Base\Interfaces;
 
 interface TagInterface
 {
